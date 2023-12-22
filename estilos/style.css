@@ -18,6 +18,7 @@ main {
     position: relative;
     
 }
+
 section#telefone {
     background-image: url("../imagens/frame-iphone.png");
     height: 637px;
@@ -26,7 +27,8 @@ section#telefone {
     position:absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);  
+    transform: translate(-50%, -50%); 
+      
 }
 
 iframe#tela {
@@ -36,9 +38,11 @@ iframe#tela {
     width: 263px;
     height: 467px;
     
+    
 }
 section#redes-sociais {
     text-align: right;
+    
 }
 section#redes-sociais img {
     border-radius: 300px 300px;
